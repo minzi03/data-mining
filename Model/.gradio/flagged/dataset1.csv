@@ -1,0 +1,2 @@
+BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer,output,timestamp
+32.55,1,1,0,0,0,0,1,7,5,0,1,2,8,0,0,0,Positive for Heart Disease,2025-01-02 02:00:34.036749
